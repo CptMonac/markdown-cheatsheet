@@ -1,7 +1,7 @@
 
 This cheatsheet is copied from https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet credit goes to adam-p
 
-[Markdown privew tool](http://dillinger.io/){target="_blank"}
+[Markdown privew tool](http://dillinger.io/){:target="_blank"}
 ----
 This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
